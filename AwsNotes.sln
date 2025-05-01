@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AwsNotes", "AwsNotes\AwsNotes.csproj", "{499D0E9A-FA46-69EB-54A3-42F21E6120B4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{499D0E9A-FA46-69EB-54A3-42F21E6120B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{499D0E9A-FA46-69EB-54A3-42F21E6120B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{499D0E9A-FA46-69EB-54A3-42F21E6120B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{499D0E9A-FA46-69EB-54A3-42F21E6120B4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {121EE92B-82FD-4B32-9479-EDE16D01F334}
+	EndGlobalSection
+EndGlobal
